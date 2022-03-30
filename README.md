@@ -2,7 +2,7 @@
 <h3 align="center">Hi Everyone, I am Shubham Kumar from Bihar, India.
 I am a full stack web developer who loves to play games and explore the world,
 I am fluent in Javascript, HTML, CSS, React, MongoDB, Redux, Express,NodeJS... Apart from coding, some other activities that I love to do!
-
+are
  Playing Games,
  Reading Conspiracy Theories and
  Exploring</h3>

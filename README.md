@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Shubham</h1>
-<h3 align="center">A passionate Full-Stack web developer from India</h3>
+<h3 align="center">Hi Everyone, I am Shubham Kumar from Bihar, India.
+I am a full stack web developer who loves to play games and explore the world,
+I am fluent in Javascript, HTML, CSS, React, MongoDB, Redux, Express, Apart from coding, some other activities that I love to do!
+
+ Playing Games
+ Reading Conspiracy Theories
+ TravellingNode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamfw13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamfw13" /> </p>
 

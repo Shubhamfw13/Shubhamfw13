@@ -17,7 +17,7 @@ are
 
 - 📫 How to reach me **sk9112019@gmail.com**
 
-- 📄 Know about my experiences [https://shubhamportfolio-shubhamfw13.vercel.app/static/media/shubhamresume.9e386b40.pdf](https://shubhamportfolio-shubhamfw13.vercel.app/static/media/shubhamresume.9e386b40.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cKHMnFEZANYRT2JnBSnBfasDdNI_hnIM/view?usp=sharing](https://drive.google.com/file/d/1cKHMnFEZANYRT2JnBSnBfasDdNI_hnIM/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a gamer and love interacting with animals.**
 
